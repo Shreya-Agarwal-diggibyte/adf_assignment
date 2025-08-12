@@ -38,7 +38,7 @@ src/
    * Performs aggregations, joins, and KPIs required for analytics.
    * Outputs Gold datasets for reporting and BI tools.
 
-## 🛠 Prerequisites
+## Prerequisites
 
 * Azure Subscription with:
 
@@ -48,7 +48,7 @@ src/
 * Access to input datasets in Azure Data Lake Storage (ADLS)
 * Configured **linked services** in ADF for Databricks and ADLS
 
-## 📖 Usage
+## Usage
 
 1. **Clone the repository**
 
